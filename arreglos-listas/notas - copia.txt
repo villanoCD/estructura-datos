@@ -1,0 +1,28 @@
+ javaScript
+ en javaScript se progrma la logica por que es un lenguaje de progrmacion 
+ HTML
+ sirve como intermediario entre el usuario y la aplicacion javaScript 
+ un programa en general se divide en 4 partes:
+ 1-conexiones y estructura logica
+ 2-entrada de datos 
+ 3-procesamiento logico
+ 4-salida de datos o resultados
+javaScript soporta la programacion funcional,la programacion modular y la programacion orientada a objtos.
+
+En javaScript se pueden utilizar funciones nativas y funciones definida por el programador.
+
+Un funcional nativas: es aquella que viene integrada con el lenguaje de programacion y solo necesita ser invocada mas no declarada.
+
+Un funcion definida: por el programador es aquella que si necesitaser declarada definida y programada para luego ser invocada
+
+hoy trabajamos con la creacion de un programa
+<div class="container"
+<input class="entrada" id="txtentrada" placeholder="escribe una palabra aqui">
+con ese codigo se creo la caja del buscador y con placeholder="mandato"
+hay se pone el texto que se bera reflejado
+con (input:button.botones#txtbotones) se crea un botones
+en el anterior se crean botenes y seles da funciones 
+con (div.resultados#txtresultado)
+ 
+ javaScript
+ 
